@@ -1,6 +1,6 @@
-# Ralph - RESTful HTTP File Server [![Build Status](https://travis-ci.org/gjerokrsteski/ralph-file-server.svg?branch=master)](https://travis-ci.org/gjerokrsteski/ralph-file-server) [![Go Report Card](https://goreportcard.com/badge/github.com/gjerokrsteski/ralph-file-server)](https://goreportcard.com/report/github.com/gjerokrsteski/ralph-file-server)
-
-Ralph is a lightweight RESTful HTTP file-server, that serves HTTP requests with the contents of the file.
+# RESTful HTTP File Server [![Build Status](https://travis-ci.org/gjerokrsteski/ralph-file-server.svg?branch=master)](https://travis-ci.org/gjerokrsteski/ralph-file-server) [![Go Report Card](https://goreportcard.com/badge/github.com/gjerokrsteski/ralph-file-server)](https://goreportcard.com/report/github.com/gjerokrsteski/ralph-file-server)
+I wrote this server for my best friend Ralph. It is a lightweight RESTful HTTP file-server, 
+that serves HTTP requests with the contents of the file.
 
 ## Use Cases
 - Developers who need a quick back-end for prototyping and mocking.
