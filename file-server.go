@@ -19,11 +19,11 @@ func main() {
 	flag.Parse()
 
 	if *version {
-		fmt.Println("Gin HTTP file-server v"+Version)
+		fmt.Println("Ralph HTTP file-server v"+Version)
 		os.Exit(0)
 	}
 
 	http.Handle("/", http.StripPrefix("/", http.FileServer(http.Dir(*directory))))
-	log.Printf("starting Gin HTTP file-server v%s for directory %s on port: %s\n", Version, *directory, *port)
+	log.Printf("starting Ralph HTTP file-server v%s for directory %s on port: %s\n", Version, *directory, *port)
 	log.Fatal(http.ListenAndServe(":"+*port, nil))
 }
