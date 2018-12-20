@@ -12,7 +12,7 @@ able to simulate the undone API.
 ## Download
 
 Ralph is compiled for amd64 architecture and supports following operating systems: window, darwin (mac) and linux.
-[Ddownload latest release](https://github.com/gjerokrsteski/ralph-file-server/releases)
+[Download latest release](https://github.com/gjerokrsteski/ralph-file-server/releases)
 
 ### 1. Explorer the binary
 
