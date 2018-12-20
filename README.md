@@ -3,14 +3,10 @@ I wrote this server for my best friend Ralph. It is a lightweight RESTful HTTP f
 that serves HTTP requests with the contents of the file.
 
 ## Use Cases
-- Developers who need a quick back-end for prototyping and mocking.
-- If you have dependencies to remote services like an API, 
-than Gin file-server will help you out to start local file-server in order to be 
-able to simulate the undone API.
 - Simple if you want to list a files from specific directory.
+- Developers who need a quick back-end for prototyping and mocking.
 
 ## Download
-
 Ralph is compiled for amd64 architecture and supports following operating systems: window, darwin (mac) and linux.
 [Download latest release](https://github.com/gjerokrsteski/ralph-file-server/releases)
 
