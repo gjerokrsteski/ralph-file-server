@@ -1,4 +1,4 @@
-# Ralph - RESTful HTTP File Server
+# Ralph - RESTful HTTP File Server [![Build Status](https://travis-ci.org/gjerokrsteski/ralph-file-server.svg?branch=master)](https://travis-ci.org/gjerokrsteski/ralph-file-server)
 
 Ralph is a lightweight RESTful HTTP file-server, that serves HTTP requests with the contents of the file.
 
